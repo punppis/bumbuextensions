@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>bumbuextensions</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>bumbu</Authors>
+    <Company>Bumbusoft Ltd.</Company>
+  </PropertyGroup>
+
+</Project>
